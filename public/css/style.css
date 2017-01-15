@@ -1,0 +1,53 @@
+.banner{
+	width: 100%;
+	border-bottom: 1px black solid;
+	margin-bottom: 1.5rem;
+}
+
+.banner-title{
+	margin-left: 2rem;
+}
+
+
+body{
+	background: #dadada;
+}
+
+.sidebar{
+	margin-top: .2em;
+	margin-left: 1rem;
+	padding-right: 1.5rem;
+	float: left;
+	display: inline-block;
+}
+
+.event-overlay{
+	background: #e4e4e4;
+	box-shadow: 0 0 8px 8px #e4e4e4;
+	opacity: .6;
+	margin-top: 20%;
+
+}
+
+
+.event-overlay h5 {
+	padding: .2rem;
+	width: 95%;
+}
+
+
+.sidebar ul li{
+	padding: .4em;
+	margin-left: .2rem;
+	color: #333;
+	list-style: none;
+	background: #e4e4e4;
+	box-shadow: 0 0 8px 8px #e4e4e4;
+	margin: .2rem;
+}
+
+#user-box{
+	box-shadow: 0 0 8px 8px #e4e4e4;
+	background: #e4e4e4;
+}
+
